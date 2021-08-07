@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Marjorie. You've reached my sacred place. Welcome! 👋
 
 - 🔭 I’m currently working on 
   * #100DaysofCode with Python 
