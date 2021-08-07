@@ -1,5 +1,6 @@
 ### Hi, I'm Marjorie. You've reached my sacred place. Welcome! 👋
 
+
 - 🔭 I’m currently working on 
   * #100DaysofCode with Python 
 
@@ -13,6 +14,11 @@
 
 - ⚡ Fun fact:
   I love One Piece :)
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjcobero&layout=compact)](https://github.com/marjcobero/github-readme-stats)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjcobero&show_icons=true&theme=tokyonight)
   
 <!--
 **marjcobero/marjcobero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
