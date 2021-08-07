@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**marjcobero/marjcobero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on 
   * #100DaysofCode with Python 
 
@@ -19,4 +14,11 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact:
   I love One Piece :)
+  
+<!--
+**marjcobero/marjcobero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
