@@ -2,11 +2,11 @@
 
 
 - 🔭 I’m currently working on 
-  * #100DaysofCode with Python 
+  * #100DaysofCode 
 
 - 🌱 I’m currently learning
-  * Full-Stack Web Development with React Specialization on Coursera
-  * Data Structures and Algorithms Specialization on Coursera 
+  * React/React Native
+  * Data Structures and Algorithms 
  
 - 📫 
   * Let's chat: cobero.marjorie@gmail.com  
