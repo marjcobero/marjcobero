@@ -9,7 +9,7 @@
   * Data Structures and Algorithms 
  
 - 📫 
-  * Let's chat: cobero.marjorie@gmail.com  
+  * Let's chat: marj.cobero@gmail.com  
   * Check out my portfolio: https://marjcobero.github.io
 
 - ⚡ Fun fact:
