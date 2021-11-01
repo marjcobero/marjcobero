@@ -1,12 +1,9 @@
 ### Hi, I'm Marjorie. You've reached my sacred place. Welcome! 👋
 
 
-- 🔭 I’m currently working on 
-  * #100DaysofCode 
+- 🔭 I’m currently working as a Software Developer Appprentice for a company.
 
-- 🌱 I’m currently learning
-  * React/React Native
-  * Data Structures and Algorithms 
+- 🌱 I’m currently learning and growing as a developer...
  
 - 📫 
   * Let's chat: marj.cobero@gmail.com  
