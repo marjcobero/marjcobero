@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Software Developer Appprentice for a company.
 
-- 🌱 I’m currently learning and growing as a developer...
+- 🌱 I’m constantly learning and growing as a developer...
  
 - 📫 
   * Let's chat: marj.cobero@gmail.com  
