@@ -13,8 +13,6 @@
   I love One Piece :)
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjcobero&layout=compact)](https://github.com/marjcobero/github-readme-stats)
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjcobero&show_icons=true&theme=tokyonight)
   
 <!--
